@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  qrcode_image: MyString
+  content: MyText
+  winereview: one
+  user: one
+
+two:
+  qrcode_image: MyString
+  content: MyText
+  winereview: two
+  user: two
